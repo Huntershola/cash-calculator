@@ -17,7 +17,7 @@ The Cash Calculator application provides a simple and efficient interface where 
 ## Live Demo
 
 You can view the live demo of this project on Netlify:
-[Cash Calculator](https://your-netlify-link.netlify.app)
+[Cash Calculator](https://cash-calculators.netlify.app/)
 
 ## License
 
